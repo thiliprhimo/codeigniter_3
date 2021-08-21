@@ -1,0 +1,11 @@
+.login-head {
+	margin-top: 150px;
+}
+
+.error {
+	color: red;
+}
+
+.success {
+	color: green;
+}
